@@ -4,8 +4,6 @@
 
 Quay lại thư mục root (nơi chứa `environment.yml`)
 
-### ⚙️ Cấu hình pip trong environment.yml
-
 Trong file `environment.yml` sẽ có dòng:
 
 ```yaml
@@ -40,7 +38,12 @@ python test.py
 ## ▶️ 3. Run file
 
 ```bash
-run file bash train_fusion_arch_ver_3.sh
+run file train_fusion_arch_ver_3.sh
+
+# trong file train_fusion_arch_ver_3.sh:
+# - chỉnh lại PROJECT_DIR
+# - FUSION_OPTION ở mục HYPERPARAMETERS: 'attn' sẽ đưa đưa features của unet và swin vào khối bidirectional cross attention + fusion
+#                                        'base' sẽ fusion 2 features trước khi đưa vào feature enhancer
 ```
 
 ---
