@@ -1,0 +1,45 @@
+# Git
+.git/
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.venv/
+conda_envs/
+
+# IDE
+.vscode/
+
+# Cache
+.cache/
+**/.cache/
+
+# Model weights
+weights/
+checkpoints/
+checkpoint/
+**/weights/
+**/checkpoints/
+**/*.pth
+**/*.ckpt
+**/*.bin
+**/*.onnx
+
+# Data
+data/
+datasets/
+*.csv
+*.xlsx
+
+# Logs
+*.log
+
+# Large files
+*.zip
+*.tar.gz
+*.pdf
+
+# Others
+.gradio/

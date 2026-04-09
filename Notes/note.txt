@@ -1,0 +1,3 @@
+Version 1: đổi swin-T thành multi-scale feature maps của Unet, giữ nguyên BERT của DINO
+version 2: sử dụng multi-scale feature maps của Unet + CLIP text encoder
+version 3: fuse features của swin và unet (option A: 'base', option B: 'attn')

@@ -1,0 +1,13 @@
+# ninja log v7
+7	4809	7964100096695084	D:/projects/zsc/CountGD/models/GroundingDINO/ops/build/temp.win-amd64-cpython-310/Release/projects/zsc/CountGD/models/GroundingDINO/ops/src/cpu/ms_deform_attn_cpu.obj	da178b312fd96de1
+17	10489	7964100096784938	D:/projects/zsc/CountGD/models/GroundingDINO/ops/build/temp.win-amd64-cpython-310/Release/projects/zsc/CountGD/models/GroundingDINO/ops/src/vision.obj	9846d1098b04071b
+13	16835	7964100096755037	D:/projects/zsc/CountGD/models/GroundingDINO/ops/build/temp.win-amd64-cpython-310/Release/projects/zsc/CountGD/models/GroundingDINO/ops/src/cuda/ms_deform_attn_cuda.obj	9fea4e8024362f5a
+192	4870	7973654300269991	D:/projects/zsc/CountGD/models/GroundingDINO/ops/build/temp.win-amd64-cpython-310/Release/projects/zsc/CountGD/models/GroundingDINO/ops/src/cpu/ms_deform_attn_cpu.obj	99b0e63dd27327f9
+203	10488	7973654300432214	D:/projects/zsc/CountGD/models/GroundingDINO/ops/build/temp.win-amd64-cpython-310/Release/projects/zsc/CountGD/models/GroundingDINO/ops/src/vision.obj	b6e071509bbb4f14
+198	16686	7973654300269991	D:/projects/zsc/CountGD/models/GroundingDINO/ops/build/temp.win-amd64-cpython-310/Release/projects/zsc/CountGD/models/GroundingDINO/ops/src/cuda/ms_deform_attn_cuda.obj	ecba2b18c16e7935
+222	5779	7973696827054331	D:/projects/zsc/CountGD/models/GroundingDINO/ops/build/temp.win-amd64-cpython-310/Release/projects/zsc/CountGD/models/GroundingDINO/ops/src/cpu/ms_deform_attn_cpu.obj	99b0e63dd27327f9
+241	12999	7973696827243833	D:/projects/zsc/CountGD/models/GroundingDINO/ops/build/temp.win-amd64-cpython-310/Release/projects/zsc/CountGD/models/GroundingDINO/ops/src/vision.obj	b6e071509bbb4f14
+233	21039	7973696827166402	D:/projects/zsc/CountGD/models/GroundingDINO/ops/build/temp.win-amd64-cpython-310/Release/projects/zsc/CountGD/models/GroundingDINO/ops/src/cuda/ms_deform_attn_cuda.obj	ecba2b18c16e7935
+218	5147	7974089501402374	D:/projects/zsc/CountGD/models/GroundingDINO/ops/build/temp.win-amd64-cpython-310/Release/projects/zsc/CountGD/models/GroundingDINO/ops/src/cpu/ms_deform_attn_cpu.obj	1a7c9d37cda8f12f
+227	11105	7974089501502369	D:/projects/zsc/CountGD/models/GroundingDINO/ops/build/temp.win-amd64-cpython-310/Release/projects/zsc/CountGD/models/GroundingDINO/ops/src/vision.obj	bcf6169a41aaca7b
+223	17926	7974089501462399	D:/projects/zsc/CountGD/models/GroundingDINO/ops/build/temp.win-amd64-cpython-310/Release/projects/zsc/CountGD/models/GroundingDINO/ops/src/cuda/ms_deform_attn_cuda.obj	b05f897250fdb34d
